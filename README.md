@@ -24,9 +24,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 </a>
 
 
-<a href="https://github.com/KUMUD-TECH">
-  <img height=200 align="center" src=="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</a>
+
 <a href="https://github.com/KUMUD-TECH">
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&theme=transparent" alt="GitHub Trophies" />
 </a>
