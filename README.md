@@ -22,7 +22,6 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 ![Kumud's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&hide_title=true)
 
 ## 🏆 Hacktoberfest Badges:
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest)
 ![Hacktoberfest Badge](https://holopin.me/@kumudtech)
 
 
@@ -30,7 +29,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&column=4&theme=dark)
 
 ## 📫 Contact Me
-- LinkedIn: [Kumud LinkedIn](https://www.linkedin.com/in/kumud-verma-1sd9)
+- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge [Kumud LinkedIn](https://www.linkedin.com/in/kumud-verma-1sd9)
 
 
 
