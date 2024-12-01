@@ -1,7 +1,6 @@
 # KUMUD-VERMA
 # Hello, I'm Kumud 👋
 
-## 📊 Profile Views:
 ![Profile views](https://komarev.com/ghpvc/?username=KUMUD-TECH)
 
 I'm a passionate developer with experience in full-stack development and AIML. Here's what I do:
@@ -24,7 +23,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 
 ## 🏆 Hacktoberfest Badges:
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest)
-![Hacktoberfest Badge](https://holopin.me/kumudtech)](https://holopin.io/@kumudtech)
+![Hacktoberfest Badge](https://holopin.io/@kumudtech)
 
 
 ## 🏆 My GitHub Trophies:
