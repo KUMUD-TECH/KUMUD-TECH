@@ -9,13 +9,21 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 - 👨‍💻 Exploring Open Source projects.
 - 💬 Ask me about **Web Development**, **AI**.
 
-| ## Skills                      | ## Most Used Languages                                                                                        |
-|-----------------------------|---------------------------------------------------------------------------------------------------------------|
-| - JavaScript, React.js      |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|
-| - HTML, CSS                 |                                                                                                                                                          |
-| - Python, Java, AI, ML      |                                                                                                                                                          |
-| - Git, GitHub               |                                                                                                                                                          |
-
+<div style="width: 45%;">
+    <h3>Skills</h3>
+    <ul>
+      <li>JavaScript, React.js</li>
+      <li>HTML, CSS</li>
+      <li>Python, Java, AI, ML</li>
+      <li>Git, GitHub</li>
+    </ul>
+  </div>
+<div style="width: 45%;">
+    <h3>Most Used Languages</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie" alt="Most Used Languages" />
+    </a>
+ </div>
 
 <table>
   <tr>
