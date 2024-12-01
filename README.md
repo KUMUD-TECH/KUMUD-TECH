@@ -9,23 +9,19 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 - 👨‍💻 Exploring Open Source projects.
 - 💬 Ask me about **Web Development**, **AI**.
 
-<table>
-  <tr>
-    <td><strong>Skills</strong></td>
-    <td><strong>Most Used Languages</strong></td>
-  </tr>
-  <tr>
-    <td>
-      - JavaScript, React.js <br>
-      - HTML, CSS <br>
-      - Python, Java, AI, ML <br>
-      - Git, GitHub
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+## Skills
+- JavaScript, React.js 
+- HTML, CSS 
+- Python, Java, AI, ML
+- Git, GitHub
+    
+  
+<a href="https://github.com/KUMUD-TECH">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
+</a>
+<a href="https://github.com/your-username">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KUMUD-TECH&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <table>
   <tr>
@@ -33,8 +29,8 @@ I'm a passionate developer with experience in full-stack development and AIML. H
     <td><h2>🏆 My GitHub Trophies</h2></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&theme=onedark" alt="GitHub Trophies" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=transparent" alt="GitHub Stats" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&theme=transparent" alt="GitHub Trophies" /></td>
   </tr>
 </table>
 
