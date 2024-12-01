@@ -17,7 +17,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
     
   
 <a href="https://github.com/KUMUD-TECH">
-  <img height=400 width= 800 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
+  <img height=400 width= 600 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/KUMUD-TECH">
   <img width=300 height= 400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" />
