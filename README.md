@@ -17,9 +17,9 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 | - Git, GitHub               |                                                                                                                                                          |
 
 
-| ## Github Stats              | ## 🏆 My GitHub Trophies:
-|-----------------------------|---------------------------------------------------------------------------------------------------------------|
-![Kumud's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&hide_title=true) | ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&column=4&theme=dark)
+ ## Github Stats               ## 🏆 My GitHub Trophies:
+
+![Kumud's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&hide_title=true)  ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&column=4&theme=dark)
 
 ## 🏆 Hacktoberfest Badges:
 ![Hacktoberfest Badge](https://holopin.me/@kumudtech)
