@@ -8,8 +8,8 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 - 🌱 Currently learning to build **Full Stack Projects** and **Machine Learning**.
 - 👨‍💻 Exploring Open Source projects.
 - 💬 Ask me about **Web Development**, **AI**.
-
-<div style="width: 45%;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%;">
     <h3>Skills</h3>
     <ul>
       <li>JavaScript, React.js</li>
@@ -18,12 +18,13 @@ I'm a passionate developer with experience in full-stack development and AIML. H
       <li>Git, GitHub</li>
     </ul>
   </div>
-<div style="width: 45%;">
+  <div style="width: 45%;">
     <h3>Most Used Languages</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie" alt="Most Used Languages" />
     </a>
- </div>
+  </div>
+</div>
 
 <table>
   <tr>
