@@ -1,4 +1,4 @@
-KUMUD-VERMA
+KUMUD-TECH
 # Hello, I'm Kumud 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=KUMUD-TECH)
