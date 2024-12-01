@@ -17,14 +17,15 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 - Git, GitHub
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD_TECH&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats
 ![Kumud's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&hide_title=true)
 
 ## 🏆 Hacktoberfest Badges:
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest)
-![Hacktoberfest Badge]((https://github.com/user-attachments/assets/1c700cb9-148a-4567-95c8-a852f5c1899a)
+![Hacktoberfest Badge](https://holopin.me/kumudtech)](https://holopin.io/@kumudtech)
+
 
 ## 🏆 My GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&column=4&theme=dark)
