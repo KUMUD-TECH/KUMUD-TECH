@@ -29,7 +29,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUD-TECH&column=4&theme=dark)
 
 ## 📫 Contact Me
-- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge [Kumud LinkedIn](https://www.linkedin.com/in/kumud-verma-1sd9)
+- [https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge](https://www.linkedin.com/in/kumud-verma-1sd9)
 
 
 
