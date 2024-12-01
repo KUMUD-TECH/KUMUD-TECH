@@ -20,7 +20,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
   <img height=400 width= 600 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/KUMUD-TECH">
-  <img width=700 height= 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" />
+  <img width=500 height= 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" />
 </a>
 
 ## 🏆 My GitHub Trophies
