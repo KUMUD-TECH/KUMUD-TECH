@@ -19,8 +19,6 @@ I'm a passionate developer with experience in full-stack development and AIML. H
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KUMUD-TECH&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
-
 <a href="https://github.com/KUMUD-TECH">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUD-TECH&layout=pie" />
 </a>
