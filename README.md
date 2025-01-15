@@ -14,7 +14,7 @@ I'm a passionate developer with experience in full-stack development and AIML. H
 - Python, Java, AI, ML
 - Git, GitHub
     
-  
+
 <a href="https://github.com/KUMUD-TECH">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KUMUD-TECH&show_icons=true&theme=light" />
 </a>
